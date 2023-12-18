@@ -1,0 +1,7 @@
+/advent-of-code
+/.vscode
+/day15
+
+
+*.json
+*.txt
